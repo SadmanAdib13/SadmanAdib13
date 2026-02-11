@@ -7,13 +7,11 @@
 
 ## 👨‍💻 About Me
 
-I am a motivated CSE student with strong interest in software development and cybersecurity. I value discipline, consistency, and continuous improvement.
-## 📌 Current Focus
+- Motivated CSE student with strong interest in software development and cybersecurity  
+- Developing problem-solving skills through Data Structures, algorithms, and practical projects  
+- Value discipline, consistency, and continuous improvement
 
-- Strengthening DSA fundamentals  
-- Building Python-based mini projects  
-- Learning cybersecurity concepts  
-- Preparing for internships  
+
 
 
 ## 🛠 Technical Skills
