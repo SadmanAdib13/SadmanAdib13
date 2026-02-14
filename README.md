@@ -1,4 +1,4 @@
-# Hi 👋 I'm Sadman Adib
+# 👽 Sadman Adib
 
 🎓 CSE Student | 💻 Aspiring Software Engineer | 🔐 Cybersecurity Enthusiast  
 # 🎓 Education
